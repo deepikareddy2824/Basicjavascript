@@ -1,0 +1,8 @@
+let v = new Map()
+v.set(12,345)
+v.set("deepu", 'yes')
+v.set('color',"pink")
+v.set("name", true)
+v.set(false,"running")
+v.set(true, 234)
+console.log(v)
